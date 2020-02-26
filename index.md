@@ -1,37 +1,59 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/ft-pax8/msftbootcamp/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<img src="./images/pax8.png" align="center"></img>
+<img src="./images/ampersand.png" align="center" height =50 width=50></img>&nbsp;&nbsp;
+<img src="./images/Microsoft2.png" align=center height=100 width=430></img>
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Azure Boot Camp
 
-```markdown
-Syntax highlighted code block
+Hello, you've reached the **Pax8 Azure Bootcamp** site.  Here you will find the labs and presentations covered during the bootcamp.  The labs for the  bootcamp are linked below and are broken down into the following distinct areas:
 
-# Header 1
-## Header 2
-### Header 3
+## 1. Azure and the Microsoft Hybrid Strategy
+- [Hybrid Strategy Presentation](1%20-%20Azure%20Bootcamp%20-%20Azure%20and%20the%20Microsoft%20Hybrid%20Strategy.pdf)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## 2. Identity
+- [Identity Presentation](2%20-%20Azure%20Bootcamp%20-%20Hybrid%20Identity.pdf)
+> **Labs**
+- [Identity - Lab 1 - AD Connect Infrastructure Setup](Identity%20Lab%201%20-%20AD%20Connect%20Infrastructure%20Setup.md)
+- [Identity - Lab 2 - Pass Thru Authentication and High Availability (optional)](Identity%20Lab%202%20-%20AD%20Connect%20High%20Availability%20(Optional).md)
+- [Identity - Lab 3 - Password single sign-on for an Azure AD gallery application (optional)](Identity%20Lab%203%20-%20AD%20Connect%20Publishing%20a%20SSO%20Application%20(Optional).md)
+<br></br>
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## 3. Networking
+[Networking Presentation](3%20-%20Azure%20Bootcamp%20-%20Networking.pdf)
+> **Labs**
+- [Networking - Lab 1 - Virtual Networks](Networking%20Lab%201%20-%20Virtual%20Networks.md)
+- [Networking - Lab 2 - Load Balancer](Networking%20Lab%202%20-%20Load%20Balancer.md)
+- [Networking - Lab 3 - Network Watcher](Networking%20Lab%203%20-%20Network%20Watcher.md)
+- [Networking - Lab 4 - Traffic Manager](Networking%20Lab%204%20-%20Traffic%20Manager.md)
+- [Networking - Lab 5 - Hub and Spoke (optional)](Networking%20Lab%205%20-%20Hub%20and%20Spoke%20Challenge%20(Optional).md)
+<br></br>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## 4. Azure Migrate
+[Migration Presentation](4%20-%20Azure%20Bootcamp%20-%20Migration.pdf)
+> **Labs**
+- [Migration - Lab 1 - Database Migration Assistant (DMA)](Migration%20Lab%201%20-%20Database%20Migration%20Service%20(DMS).md)
+- [Migration - Lab 2 - Azure Site Recovery for Migration](Migration%20Lab%202%20-%20Azure%20Site%20Recovery%20(ASR).md)
+- [Migration - Lab 3 - Azure Policy](Migration%20Lab%203%20-%20Azure%20Policy.md)
+- [Migration - Lab 4 - Azure Migrate (optional)](Migration%20Lab%204%20-%20Azure%20Migrate%20(Optional).md)
+<br></br>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ft-pax8/msftbootcamp/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## 5. Azure Storage
+[Storage Presentation](5%20-%20Azure%20Bootcamp%20-%20Storage.pdf)
+> **Labs**
+- [Storage - Lab 1 - Creating Data Disks](Storage%20Lab%201%20-%20Creating%20Data%20Disks.md)
+- [Storage - Lab 2 - Storage: VM and Disk Sizing](Storage%20Lab%202%20-%20VM%20and%20Disk%20Sizing.md)
+- [Storage - Lab 3 - Storage: Azure Files](Storage%20Lab%203%20-%20Azure%20Files.md)
 
-### Support or Contact
+<br></br>
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<P align="center"><a href="http://wingman2020.com"><img src="./images/Wingman2020_2.png" align=center height=100 width=400></img></a></p>
+
+<br></br>
+
+[Back](./)
+
