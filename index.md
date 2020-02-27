@@ -1,15 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Page Title</title>
+<title>Pax8 Microsoft Azure Bootcamp</title>
 </head>
 <body>
-
-<h1>This is a Heading</h1>
-<p>This is a paragraph.</p>
-
-</body>
-</html>
 
 <img src="/images/pax8.png" align="center"></img>
 <img src="/images/ampersand.png" align="center" height =50 width=50></img>&nbsp;&nbsp;
@@ -63,6 +57,12 @@ Hello, you've reached the **Pax8 Azure Bootcamp** site.  Here you will find the 
 <br></br>
 
 <P align="center"><a href="http://wingman2020.com"><img src="./images/Wingman2020_2.png" align=center height=100 width=400></img></a></p>
+
+<h1>This is a Heading</h1>
+<p>This is a paragraph.</p>
+
+</body>
+</html>
 
 <br></br>
 
