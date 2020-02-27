@@ -1,7 +1,3 @@
-<!DOCTYPE html>
-<html>
-
-<body>
 
 <img src="/images/pax8.png" align="center"></img>
 <img src="/images/ampersand.png" align="center" height =50 width=50></img>&nbsp;&nbsp;
@@ -59,8 +55,6 @@ Hello, you've reached the **Pax8 Azure Bootcamp** site.  Here you will find the 
 <h1>This is a Heading</h1>
 <p>This is a paragraph.</p>
 
-</body>
-</html>
 
 <br></br>
 
