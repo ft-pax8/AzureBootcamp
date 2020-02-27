@@ -52,9 +52,6 @@ Hello, you've reached the **Pax8 Azure Bootcamp** site.  Here you will find the 
 
 <P align="center"><a href="http://wingman2020.com"><img src="./images/Wingman2020_2.png" align=center height=100 width=400></img></a></p>
 
-<h1>This is a Heading</h1>
-<p>This is a paragraph.</p>
-
 
 <br></br>
 
