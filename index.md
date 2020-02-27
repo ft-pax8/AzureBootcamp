@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
-<title>Pax8 Microsoft Azure Bootcamp</title>
-</head>
+
 <body>
 
 <img src="/images/pax8.png" align="center"></img>
