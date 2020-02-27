@@ -1,6 +1,6 @@
 
 
-<img src=".pax8.png" align="center"></img>
+<img src="./images/pax8.png" align="center"></img>
 <img src="./images/ampersand.png" align="center" height =50 width=50></img>&nbsp;&nbsp;
 <img src="./images/Microsoft2.png" align=center height=100 width=430></img>
 
